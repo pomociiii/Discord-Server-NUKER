@@ -27,9 +27,9 @@ if CHANNEL_NAME == "" :
     CHANNEL_NAME = "Got hacked!"
 
 
-antinet = commands.Bot(command_prefix="!", intents = discord.Intents.all())
+pomoci = commands.Bot(command_prefix="!", intents = discord.Intents.all())
 
-@antinet.command(aliases=['nuke'])
+@pomoci.command(aliases=['nuke'])
 async def start(ctx):
     num = 0
     numb = 0
@@ -98,5 +98,5 @@ async def start(ctx):
 
 
 
-antinet.run(TOKEN)
+pomoci.run(TOKEN)
 

@@ -7,9 +7,9 @@ from typing import ContextManager
 from colorama import init, Fore, Back
 init()
 
-print(  "░█▀▀░█▀▀░█▀▄░█░█░█▀▀░█▀▄░░░█▀█░█░█░█░█░█▀▀░█▀▄")
-print(  "░▀▀█░█▀▀░█▀▄░▀▄▀░█▀▀░█▀▄░░░█░█░█░█░█▀▄░█▀▀░█▀▄")
-print(  "░▀▀▀░▀▀▀░▀░▀░░▀░░▀▀▀░▀░▀░░░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀")
+print(  ‘’’░█▀▀░█▀▀░█▀▄░█░█░█▀▀░█▀▄░░░█▀█░█░█░█░█░█▀▀░█▀▄
+  ░▀▀█░█▀▀░█▀▄░▀▄▀░█▀▀░█▀▄░░░█░█░█░█░█▀▄░█▀▀░█▀▄
+  ░▀▀▀░▀▀▀░▀░▀░░▀░░▀▀▀░▀░▀░░░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀ ‘’’)
 
 IMPORTANT =  "IF YOU WANT TO USE THIS PROGRAMM DONT FORGET ITS POWERFULL AND WILL DESTROY THE SERVER!!!!!!!!!!!!"
 print (Fore.RED + IMPORTANT)

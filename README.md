@@ -14,6 +14,7 @@ by FORTNITEPROOOOOOO69#9663 aka. pomoci
                                                                               
  
  𝐖𝐡𝐚𝐭 𝐮 𝐧𝐞𝐞𝐝:
+ 
  python : https://www.python.org/downloads/
  
  

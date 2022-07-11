@@ -7,9 +7,10 @@ from typing import ContextManager
 from colorama import init, Fore, Back
 init()
 
-print(  ‘’’░█▀▀░█▀▀░█▀▄░█░█░█▀▀░█▀▄░░░█▀█░█░█░█░█░█▀▀░█▀▄
+print(  '''░█▀▀░█▀▀░█▀▄░█░█░█▀▀░█▀▄░░░█▀█░█░█░█░█░█▀▀░█▀▄
   ░▀▀█░█▀▀░█▀▄░▀▄▀░█▀▀░█▀▄░░░█░█░█░█░█▀▄░█▀▀░█▀▄
-  ░▀▀▀░▀▀▀░▀░▀░░▀░░▀▀▀░▀░▀░░░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀ ‘’’)
+  ░▀▀▀░▀▀▀░▀░▀░░▀░░▀▀▀░▀░▀░░░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀ '''
+     )
 
 IMPORTANT =  "IF YOU WANT TO USE THIS PROGRAMM DONT FORGET ITS POWERFULL AND WILL DESTROY THE SERVER!!!!!!!!!!!!"
 print (Fore.RED + IMPORTANT)
@@ -34,9 +35,10 @@ async def start(ctx):
     num = 0
     numb = 0
     
-    print   (Fore.RED + "░█▀▀░▀█▀░█▀█░█▀▄░▀█▀░█▀▀░█▀▄")
-    print   (Fore.RED + "░▀▀█░░█░░█▀█░█▀▄░░█░░█▀▀░█░█")
-    print   (Fore.RED + "░▀▀▀░░▀░░▀░▀░▀░▀░░▀░░▀▀▀░▀▀░")
+    print   (Fore.RED + '''░█▀▀░▀█▀░█▀█░█▀▄░▀█▀░█▀▀░█▀▄
+    ▀▀█░░█░░█▀█░█▀▄░░█░░█▀▀░█░█
+    ░▀▀▀░░▀░░▀░▀░▀░▀░░▀░░▀▀▀░▀▀░''')
+       
     
     await ctx.message.delete()
     
@@ -83,9 +85,9 @@ async def start(ctx):
     print(Fore.CYAN + str(num) + Fore.CYAN + "  channels got deleted!")
     print(Fore.RED + str(numb) + Fore.RED + "  members got banned!")
 
-    print(Fore.BLUE + "░█▀▀░▀█▀░█▀█░▀█▀░█▀▀░█░█░█▀▀░█▀▄")
-    print(Fore.BLUE + "░█▀▀░░█░░█░█░░█░░▀▀█░█▀█░█▀▀░█░█")
-    print(Fore.BLUE + "░▀░░░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀▀░")
+    print(Fore.BLUE + '''█▀▀░▀█▀░█▀█░▀█▀░█▀▀░█░█░█▀▀░█▀▄
+    ░█▀▀░░█░░█░█░░█░░▀▀█░█▀█░█▀▀░█░█
+    ░▀░░░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀▀░''')
 
 
  

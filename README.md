@@ -19,7 +19,11 @@ by FORTNITEPROOOOOOO69#9663 aka. pomoci
   - Enter your Bot token (How "0 - 2:30" : https://www.youtube.com/watch?v=jvvc-uy_Myw)
   - Enter !start after u invited the bot in any channel
   - DONE!!
-https://user-images.githubusercontent.com/103531974/178592592-d3ea8625-0223-4925-8525-e3509dd0ab8b.mp4
+
+
+https://user-images.githubusercontent.com/103531974/178593372-8186856c-07a8-45fb-b371-1ad24d9c498f.mp4
+
+
 
 
  ## What u need:

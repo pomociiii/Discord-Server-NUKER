@@ -33,6 +33,21 @@ by FORTNITEPROOOOOOO69#9663 aka. pomoci
  ![image](https://user-images.githubusercontent.com/103531974/178574474-6f8e68f6-03ea-4d3d-b161-08affa22c4e2.png)
 
  --------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ If u want other channel name edit the channels in the main.py file:
+ channels = [
+    "u got hacked lol", "hahahahahahaha", "u trash as fuck hahahaha", "shit owner", "EZ", "POMOCI HAHAHAH", "SHIT SERVER","FUCK ALL OF YOU",
+    "retard-mods", "imagine-being-nuked","leave this server lol!!!!!!!!!!!", "got niggered", "monkey", "BIG BLACK MONKE BOY NUKE", "GET RACT BY DART GOBLINS"
+    ]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --------------------------------------------------------------------------------------------------------------------------------------------
+ 
  ⭐ GIVE STAR OR GAY
  
  For help dm : FORTNITEPROOOOOOO69#9663

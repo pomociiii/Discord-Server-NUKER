@@ -13,7 +13,7 @@ by FORTNITEPROOOOOOO69#9663 aka. pomoci
   
   
   
-  - First Start the install.bat file
+  - Start the install.bat file
   - Then u Start the run.bat file or type python main.py
   - Enter your token (How "0 - 2:30" : https://www.youtube.com/watch?v=jvvc-uy_Myw)
   - Enter !start after u invited the bot in any channel

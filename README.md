@@ -12,7 +12,7 @@ by FORTNITEPROOOOOOO69#9663 aka. pomoci
   ![image](https://user-images.githubusercontent.com/103531974/178571775-5a315922-0c35-4672-9723-0630a584fb8e.png)
 
   
- --------------------------------------------------------------------------------------------------------------------------------------------
+
   
   - Start the install.bat file
   - Then u Start the run.bat file or type python main.py

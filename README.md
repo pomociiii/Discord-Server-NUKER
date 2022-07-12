@@ -29,7 +29,11 @@ by FORTNITEPROOOOOOO69#9663 aka. pomoci
  
 
 ## 
-![Alt text](https://s49.freeconvert.com/task/62cddb5648dfdf001232c353/2022-07-12%2022-35-39.mp4)
+
+
+
+https://user-images.githubusercontent.com/103531974/178591115-cff1169e-d18a-4bb3-99c3-3a1594020656.mp4
+
 
  
  ## EXTRA:

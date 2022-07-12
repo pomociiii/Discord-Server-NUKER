@@ -29,7 +29,7 @@ by FORTNITEPROOOOOOO69#9663 aka. pomoci
  
 
 ## 
-![Alt text](https://im.ezgif.com/tmp/ezgif-1-f7606ebd2f.gif)
+![Alt text](https://im.ezgif.com/tmp/ezgif-1-4163f5bf87.gif)
 
  
  ## EXTRA:

@@ -34,7 +34,7 @@ by FORTNITEPROOOOOOO69#9663 aka. pomoci
 
  --------------------------------------------------------------------------------------------------------------------------------------------
  
- If u want other channel name edit the channels in the main.py file:
+ If you want other channel name edit the channels in the main.py file:
  
  ```python
  channels = [
@@ -43,10 +43,18 @@ by FORTNITEPROOOOOOO69#9663 aka. pomoci
     ]
  ```
  
+ You can also change the prefix with every Start by adding:
  
  
+ ```python
+ prefixinput = input("Enter your BOTS prefix: ")
+ PREFIX = prefixinput
+ ```
+ and then also change:
  
- 
+ ```python
+ pomoci = commands.Bot(command_prefix=PREFIX, intents = discord.Intents.all())
+ ```
  
  --------------------------------------------------------------------------------------------------------------------------------------------
  

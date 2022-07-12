@@ -28,9 +28,7 @@ by FORTNITEPROOOOOOO69#9663 aka. pomoci
  
 
 ## 
- ![image](https://user-images.githubusercontent.com/103531974/178574530-56da3307-ea9c-44c5-8c74-3af0be70c321.png)
-
- ![image](https://user-images.githubusercontent.com/103531974/178574474-6f8e68f6-03ea-4d3d-b161-08affa22c4e2.png)
+https://im.ezgif.com/tmp/ezgif-1-f7606ebd2f.gif
 
  
  ## EXTRA:

@@ -5,6 +5,14 @@ by FORTNITEPROOOOOOO69#9663 aka. pomoci
 
 
 𝐇𝐎𝐖 𝐓𝐎 𝐔𝐒𝐄:
+  - Create a Bot and tearn these Settings on :
+  
+  
+  ![image](https://user-images.githubusercontent.com/103531974/178571775-5a315922-0c35-4672-9723-0630a584fb8e.png)
+
+  
+  
+  
   - First Start the install.bat file
   - Then u Start the run.bat file or type python main.py
   - Enter your token (How "0 - 2:30" : https://www.youtube.com/watch?v=jvvc-uy_Myw)

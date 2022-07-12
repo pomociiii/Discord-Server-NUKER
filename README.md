@@ -35,11 +35,13 @@ by FORTNITEPROOOOOOO69#9663 aka. pomoci
  --------------------------------------------------------------------------------------------------------------------------------------------
  
  If u want other channel name edit the channels in the main.py file:
+ 
+ '''python
  channels = [
     "u got hacked lol", "hahahahahahaha", "u trash as fuck hahahaha", "shit owner", "EZ", "POMOCI HAHAHAH", "SHIT SERVER","FUCK ALL OF YOU",
     "retard-mods", "imagine-being-nuked","leave this server lol!!!!!!!!!!!", "got niggered", "monkey", "BIG BLACK MONKE BOY NUKE", "GET RACT BY DART GOBLINS"
     ]
- 
+ '''
  
  
  

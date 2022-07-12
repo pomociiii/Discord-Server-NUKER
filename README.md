@@ -33,6 +33,8 @@ by FORTNITEPROOOOOOO69#9663 aka. pomoci
  ![image](https://user-images.githubusercontent.com/103531974/178574474-6f8e68f6-03ea-4d3d-b161-08affa22c4e2.png)
 
  --------------------------------------------------------------------------------------------------------------------------------------------
+ ##EXTRA:
+ 
  
  If you want other channel name edit the channels in the main.py file:
  

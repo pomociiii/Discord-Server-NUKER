@@ -21,16 +21,7 @@ by FORTNITEPROOOOOOO69#9663 aka. pomoci
   - DONE!!
 
                                                                             
-                                                                       
- 
-
-## 
-
-
-
-
-
-https://user-images.githubusercontent.com/103531974/178592592-d3ea8625-0223-4925-8525-e3509dd0ab8b.mp4
+  https://user-images.githubusercontent.com/103531974/178592592-d3ea8625-0223-4925-8525-e3509dd0ab8b.mp4
 
 
  ## What u need:

@@ -37,6 +37,8 @@ by FORTNITEPROOOOOOO69#9663 aka. pomoci
  
  For help dm : FORTNITEPROOOOOOO69#9663
  
+ Release : https://github.com/NeVerLie0/Discord-Server-NUKER/releases/tag/discordservernuker
+ 
  
  
  

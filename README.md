@@ -18,7 +18,8 @@ by FORTNITEPROOOOOOO69#9663 aka. pomoci
   - Then u Start the run.bat file or type python main.py
   - Enter your Bot token (How "0 - 2:30" : https://www.youtube.com/watch?v=jvvc-uy_Myw)
   - Enter !start after u invited the bot in any channel
-  - DONE!
+  - DONE!!
+
                                                                             
                                                                           
  
@@ -28,7 +29,7 @@ by FORTNITEPROOOOOOO69#9663 aka. pomoci
  
 
 ## 
-https://im.ezgif.com/tmp/ezgif-1-f7606ebd2f.gif
+[ezgif-1-f7606ebd2f](https://user-images.githubusercontent.com/103531974/178588167-c0bbb62b-7b65-4784-89ca-996dfe159353.gif)
 
  
  ## EXTRA:

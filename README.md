@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/103531974/178294847-c10002a9-e30d-459b-b2d4-0ff2d7c27c92.png)
 
                                                                                                                                                    
-by FORTNITEPROOOOOOO69#9663 aka. pomoci
+by pomoci
 
 
 

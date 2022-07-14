@@ -7,6 +7,8 @@ from typing import ContextManager
 from colorama import init, Fore, Back
 init()
 
+def clear(): os.system('cls')
+
 print(  '''░ █▀▀░█▀▀░█▀▄░█░█░█▀▀░█▀▄░░░█▀█░█░█░█░█░█▀▀░█▀▄
   ▀▀█░█▀▀░█▀▄░▀▄▀░█▀▀░█▀▄░░░█░█░█░█░█▀▄░█▀▀░█▀▄
   ▀▀▀░▀▀▀░▀░▀░░▀░░▀▀▀░▀░▀░░░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀ '''
@@ -88,6 +90,18 @@ async def start(ctx):
     print(Fore.BLUE +'''█▀▀░▀█▀░█▀█░▀█▀░█▀▀░█░█░█▀▀░█▀▄
 █▀▀░░█░░█░█░░█░░▀▀█░█▀█░█▀▀░█░█
 ▀░░░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀▀░\n\n '''+ Fore.YELLOW + "U FUCKED THE WHOLE SERVER LMAO!")
+    ff = input("Press enter to continue : ")
+    if ff == "":
+        clear()
+        print(  '''░ █▀▀░█▀▀░█▀▄░█░█░█▀▀░█▀▄░░░█▀█░█░█░█░█░█▀▀░█▀▄
+  ▀▀█░█▀▀░█▀▄░▀▄▀░█▀▀░█▀▄░░░█░█░█░█░█▀▄░█▀▀░█▀▄
+  ▀▀▀░▀▀▀░▀░▀░░▀░░▀▀▀░▀░▀░░░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀ '''
+     )
+
+        print("\n\nPRESS !START TO DO NUKE A NOTHER SERVER!")
+    else: 
+        exit()
+
 
 
  

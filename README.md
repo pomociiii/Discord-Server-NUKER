@@ -60,7 +60,7 @@ https://user-images.githubusercontent.com/103531974/178593372-8186856c-07a8-45fb
  
  ⭐ GIVE STAR OR GAY
  
- For help dm : K.dots's bitch#9663
+ For help dm : Backy-Fosy#9663
  
  Release : https://github.com/NeVerLie0/Discord-Server-NUKER/releases/tag/discordservernuker
  

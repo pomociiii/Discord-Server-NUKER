@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/103531974/178593372-8186856c-07a8-45fb
  ```python
  channels = [
     "u got hacked lol", "hahahahahahaha", "u trash as fuck hahahaha", "shit owner", "EZ", "POMOCI HAHAHAH", "SHIT SERVER","FUCK ALL OF YOU",
-    "retard-mods", "imagine-being-nuked","leave this server lol!!!!!!!!!!!", "got niggered", "monkey", "BIG BLACK MONKE BOY NUKE", "GET RACT BY DART GOBLINS"
+    "retard-mods", "imagine-being-nuked","leave this server lol!!!!!!!!!!!",, "monkey", "BIG BLACK MONKE BOY NUKE", "GET RACT BY DART GOBLINS"
     ]
  ```
  
